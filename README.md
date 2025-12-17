@@ -1,6 +1,6 @@
-# Code Of Conduct - Google Developer Student Club, Makerere University
+# Code Of Conduct - GDG on Campus, Makerere University
 
-The Google Developer Student Club (GDSC) is committed to provide an inclusive environment that welcomes all members.
+GDG on Campus, Makerere University is committed to provide an inclusive environment that welcomes all members.
 
 **Expections and Unexpected behavior**
 
